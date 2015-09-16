@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:49.753385
+#+DATE: 2015-08-30 20:41:51.425971
 #+TITLE: 根本說一切有部毘奈耶出家事
 #+PROPERTY: CBETA_ID T23n1444
 #+PROPERTY: ID KR6k0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1444
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0025_T_000-1020b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0025_T_003-1031a> ¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《根本說一切有部毘奈耶出家事》¶
+《根本說一切有部毘奈耶出家事》¶
 卷第三¶
 ¶
 大唐三藏義淨奉　制譯¶
